@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "title": "Inferno",
+      "author": "Dan Brown",
+      "category": "Thriller",
+      "isbm": "25-35-555-124",
+      "id": 1
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "category": "Sci-Fi",
+      "isbm": "111-64-32-12",
+      "id": 2
+    },
+    {
+      "title": "Перехресні стежки",
+      "author": "Іван Франко",
+      "category": "Westerns",
+      "isbm": "88-8888-88-887",
+      "id": 3
+    },
+    {
+      "title": "Christine",
+      "author": "Stephen King",
+      "category": "Fantasy",
+      "isbm": "84-45-267-4444",
+      "id": 4
+    },
+    {
+      "title": "Me Before You",
+      "author": "Jojo Moyes",
+      "category": "Romance",
+      "isbm": "0-71-815783-4",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.brand {
+	font-size: 24px;
+	color: #ffffff;
+	cursor: default;
+}
+
+.link {
+	text-decoration: none;
+	color: grey;
+	margin-right: 15px;
+}
+
+.link:hover {
+	color: #ffffff;
+}
+
+.active {
+	color: #ffffff;
+}
